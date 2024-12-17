@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Study resource for the oestrous cycle in cattle: follicular waves, hormonal regulation, and phases of the cycle">
+    <title>Oestrous Cycle Study Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #004080;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+        main {
+            max-width: 900px;
+            margin: 2em auto;
+            padding: 1em;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+        h1, h2, h3 {
+            color: #004080;
+        }
+        .phase, .wave {
+            margin-bottom: 1.5em;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #007acc;
+        }
+        .hormones {
+            background-color: #e6f7ff;
+            border-left: 5px solid #004080;
+            padding: 1em;
+            margin-bottom: 1.5em;
+        }
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #004080;
+            color: #fff;
+            margin-top: 2em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Oestrous Cycle Study Guide</h1>
+        <p>Your comprehensive resource for understanding cattle reproduction.</p>
+    </header>
+    <main>
+        <h2>Phases of the Oestrous Cycle</h2>
+        <div class="phase">
+            <h3>1. Proestrus (Days 18-20)</h3>
+            <p>
+                The <span class="highlight">decline in progesterone (P4)</span> due to luteolysis allows an increase in <span class="highlight">GnRH</span>, which stimulates the release of <span class="highlight">FSH</span> and <span class="highlight">LH</span>. The dominant follicle (DF) grows, producing high levels of <span class="highlight">oestrogen (E2)</span>, preparing for ovulation.
+            </p>
+        </div>
+        <div class="phase">
+            <h3>2. Dioestrus (Days 5-17)</h3>
+            <p>
+                This phase is dominated by <span class="highlight">progesterone (P4)</span> produced by the corpus luteum (CL). P4 suppresses GnRH to inhibit further follicular growth and ovulation. If no pregnancy occurs, <span class="highlight">PGF2α</span> triggers CL regression.
+            </p>
+        </div>
+        
+        <h2>Follicular Waves</h2>
+        <div class="wave">
+            <h3>How Follicular Waves Work</h3>
+            <p>
+                Cows exhibit <span class="highlight">2 or 3 follicular waves</span> per cycle:
+            </p>
+            <ul>
+                <li><strong>Recruitment:</strong> FSH stimulates a group of follicles to grow.</li>
+                <li><strong>Selection:</strong> One follicle becomes dominant, producing E2 and inhibin.</li>
+                <li><strong>Dominance:</strong> The dominant follicle suppresses others and ovulates if progesterone declines.</li>
+                <li><strong>Atresia:</strong> Non-dominant follicles regress due to insufficient hormonal support.</li>
+            </ul>
+        </div>
+        
+        <div class="hormones">
+            <h3>Key Hormones in the Cycle</h3>
+            <p>
+                <strong>1. Progesterone (P4):</strong> Produced by the CL; inhibits GnRH.<br>
+                <strong>2. Oestrogen (E2):</strong> Produced by the dominant follicle; stimulates LH surge.<br>
+                <strong>3. FSH:</strong> Stimulates follicular recruitment and early growth.<br>
+                <strong>4. LH:</strong> Maintains dominant follicle and triggers ovulation.<br>
+                <strong>5. PGF2α:</strong> Causes CL regression if no pregnancy occurs.<br>
+            </p>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Oestrous Cycle Study Guide | Made for Agricultural Science Students</p>
+    </footer>
+</body>
+</html>
